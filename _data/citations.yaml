@@ -4,12 +4,12 @@
   title: Evolutionary analysis reveals the origin of sodium coupling in glutamate
     transporters
   authors:
-  - '**Krishna D. Reddy#**'
+  - Krishna D. Reddy
   - Burha Rasool
   - Farideh Badichi Akher
   - "Nemanja Kutle\u0161i\u0107"
   - Swati Pant
-  - Olga Boudker#
+  - Olga Boudker
   publisher: Nature Structural &amp; Molecular Biology
   date: '2025-08-25'
   link: https://doi.org/hbq3hb
@@ -21,7 +21,7 @@
     Ensembles by <sup>19</sup>F NMR and Cryo-EM
   authors:
   - Yun Huang
-  - '**Krishna D. Reddy**'
+  - Krishna D. Reddy
   - Clay Bracken
   - Biao Qiu
   - Wenhu Zhan
@@ -37,10 +37,10 @@
   title: The archaeal glutamate transporter homologue GltPh shows heterogeneous substrate
     binding
   authors:
-  - '**Krishna D. Reddy#**'
+  - Krishna D. Reddy
   - Didar Ciftci
   - Amanda J. Scopelliti
-  - Olga Boudker#
+  - Olga Boudker
   publisher: Journal of General Physiology
   date: '2022-04-22'
   link: https://doi.org/g6kwjj
@@ -51,8 +51,8 @@
   title: Physicochemical sequence characteristics that influence <i>S</i>-palmitoylation
     propensity
   authors:
-  - '**Krishna D. Reddy^**'
-  - Jashwanth Malipeddi^
+  - Krishna D. Reddy
+  - Jashwanth Malipeddi
   - Shelly DeForte
   - Vikas Pejaver
   - Predrag Radivojac
@@ -68,8 +68,8 @@
   title: Functional correlations of respiratory syncytial virus proteins to intrinsic
     disorder
   authors:
-  - Jillian N Whelan^
-  - '**Krishna D. Reddy^**'
+  - Jillian N Whelan
+  - Krishna D Reddy
   - Vladimir N Uversky
   - Michael N Teng
   publisher: Molecular BioSystems
@@ -84,7 +84,7 @@
   authors:
   - David A. Mitchell
   - Laura D. Hamel
-  - '**Krishna D. Reddy**'
+  - Krishna D. Reddy
   - Lynn Farh
   - Logan M. Rettew
   - Phillip R. Sanchez
@@ -100,10 +100,10 @@
     during yeast mitosis
   authors:
   - Insung Na
-  - '**Krishna D. Reddy**'
+  - Krishna D Reddy
   - Leonid Breydo
   - Bin Xue
-  - Vladimir N. Uversky
+  - Vladimir N Uversky
   publisher: Molecular BioSystems
   date: '2014-01-08'
   link: https://doi.org/gfwdck
@@ -115,7 +115,7 @@
     on protein aggregation'
   authors:
   - Leonid Breydo
-  - '**Krishna D. Reddy**'
+  - Krishna D. Reddy
   - Alessandro Piai
   - Isabella C. Felli
   - Roberta Pierattelli
@@ -126,3 +126,61 @@
   orcid: 0000-0002-0475-8375
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1371/journal.pcbi.1007128
+  title: Open collaborative writing with Manubot
+  authors:
+  - Daniel S. Himmelstein
+  - Vincent Rubinetti
+  - David R. Slochower
+  - Dongbo Hu
+  - Venkat S. Malladi
+  - Casey S. Greene
+  - Anthony Gitter
+  publisher: PLOS Computational Biology
+  date: '2020-12-04'
+  link: https://doi.org/c7np
+  type: paper
+  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
+    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  buttons:
+  - type: manubot
+    link: https://greenelab.github.io/meta-review/
+  - type: source
+    text: Manuscript Source
+    link: https://github.com/greenelab/meta-review
+  - type: website
+    link: http://manubot.org/
+  tags:
+  - open science
+  - collaboration
+  repo: greenelab/meta-review
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.csbj.2020.05.017
+  title: Constructing knowledge graphs and their biomedical applications
+  authors:
+  - David N. Nicholson
+  - Casey S. Greene
+  publisher: Computational and Structural Biotechnology Journal
+  date: '2020-01-01'
+  link: https://doi.org/gg7m48
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.7554/eLife.32822
+  title: Sci-Hub provides access to nearly all scholarly literature
+  authors:
+  - Daniel S Himmelstein
+  - Ariel Rodriguez Romero
+  - Jacob G Levernier
+  - Thomas Anthony Munro
+  - Stephen Reid McLaughlin
+  - Bastian Greshake Tzovaras
+  - Casey S Greene
+  publisher: eLife
+  date: '2018-03-01'
+  link: https://doi.org/ckcj
+  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  plugin: sources.py
+  file: sources.yaml
