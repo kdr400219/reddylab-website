@@ -72,7 +72,7 @@ We are a newly established lab that aims to foster a dynamic, inclusive, and col
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team.jpg"
   link="team"
   title="Our Team"
   text=text
