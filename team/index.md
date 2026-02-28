@@ -22,7 +22,7 @@ Reddy Lab Alumni
 
 {% capture content %}
 
-{% include list.html data="members" component="portrait" filter="role = 'alum'" %}
+Joseph Mattei, B.S. - Research Scientist (2025-2026)
 
 {% endcapture %}
 
