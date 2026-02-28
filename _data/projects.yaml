@@ -14,13 +14,13 @@
   description: Our work aims to identify and zoom in on these key regulatory regions. We use computational and experimental methods to pinpoint the naturally occurring and engineered sequence variations that result in different functions. We then design experiments to contextualize these sequence variations to the transporter’s structure, function, and dynamics.
 
 - title: Reconstructing the evolution of diverse transporter functions
-  image: images/photo.jpg
+  image: images/ASR.jpg
   description: We use computational phylogenetics to infer how transporter sequences evolved to have different functions. Then, we can reconstruct the amino acid sequences of ‘ancestral’ transporters, express and purify the engineered proteins in the lab, and experimentally connect these evolutionary sequence changes to the resulting structure-function changes.
 
 - title: Comprehensively probing sequence-function landscapes of transporters
-  image: images/photo.jpg
+  image: images/DE.jpg
   description: We also develop high-throughput readouts of transporter function, enabling assessment of thousands to millions of individual transporter variants at a time. By systematically altering every site of the entire transporter sequence, we can guide the discovery of hidden regulatory features and engineer different functional properties.
 
 - title: Applying our insights to AI/ML
-  image: images/photo.jpg
+  image: images/AI.jpg
   description: A long-term goal of the lab is to leverage our insights into sequence-function relationships, combined with AlphaFold2 structural predictions, to inform machine learning models that connect sequence-structure-function. We envision this as complementary to experimental studies in understanding how transporters work.
