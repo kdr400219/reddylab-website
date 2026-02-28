@@ -1,23 +1,136 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+- id: doi:10.1038/s41594-025-01652-z
+  title: Evolutionary analysis reveals the origin of sodium coupling in glutamate
+    transporters
+  authors:
+  - '**Krishna D. Reddy#**'
+  - Burha Rasool
+  - Farideh Badichi Akher
+  - "Nemanja Kutle\u0161i\u0107"
+  - Swati Pant
+  - Olga Boudker#
+  publisher: Nature Structural &amp; Molecular Biology
+  date: '2025-08-25'
+  link: https://doi.org/hbq3hb
+  orcid: 0000-0002-0475-8375
+  plugin: orcid.py
+  file: orcid.yaml
   buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
-
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+    - type: preprint
+      link: https://www.biorxiv.org/content/10.1101/2023.12.03.569786v2.full
+- id: doi:10.1021/jacs.3c01003
+  title: Environmentally Ultrasensitive Fluorine Probe to Resolve Protein Conformational
+    Ensembles by <sup>19</sup>F NMR and Cryo-EM
+  authors:
+  - Yun Huang
+  - Krishna D. Reddy
+  - Clay Bracken
+  - Biao Qiu
+  - Wenhu Zhan
+  - David Eliezer
+  - Olga Boudker
+  publisher: Journal of the American Chemical Society
+  date: '2023-04-06'
+  link: https://doi.org/gt7qrd
+  orcid: 0000-0002-0475-8375
+  plugin: orcid.py
+  file: orcid.yaml
+  buttons:
+    - type: preprint
+      link: https://www.biorxiv.org/content/10.1101/2022.03.29.486269v3
+- id: doi:10.1085/jgp.202213131
+  title: The archaeal glutamate transporter homologue GltPh shows heterogeneous substrate
+    binding
+  authors:
+  - '**Krishna D. Reddy#**'
+  - Didar Ciftci
+  - Amanda J. Scopelliti
+  - Olga Boudker#
+  publisher: Journal of General Physiology
+  date: '2022-04-22'
+  link: https://doi.org/g6kwjj
+  orcid: 0000-0002-0475-8375
+  plugin: orcid.py
+  file: orcid.yaml
+  buttons:
+    - type: preprint
+      link: https://www.biorxiv.org/content/10.1101/2021.07.08.451670v2
+- id: doi:10.1080/07391102.2016.1217275
+  title: Physicochemical sequence characteristics that influence <i>S</i>-palmitoylation
+    propensity
+  authors:
+  - Krishna D. Reddy^
+  - Jashwanth Malipeddi^
+  - Shelly DeForte
+  - Vikas Pejaver
+  - Predrag Radivojac
+  - Vladimir N. Uversky
+  - Robert J. Deschenes
+  publisher: Journal of Biomolecular Structure and Dynamics
+  date: '2016-08-07'
+  link: https://doi.org/hbq3hc
+  orcid: 0000-0002-0475-8375
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/c6mb00122j
+  title: Functional correlations of respiratory syncytial virus proteins to intrinsic
+    disorder
+  authors:
+  - Jillian N Whelan^
+  - Krishna D Reddy^
+  - Vladimir N Uversky
+  - Michael N Teng
+  publisher: Molecular BioSystems
+  date: '2016-03-30'
+  link: https://doi.org/hbq3hd
+  orcid: 0000-0002-0475-8375
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1074/jbc.m114.567420
+  title: Mutations in the X-linked Intellectual Disability Gene, zDHHC9, Alter Autopalmitoylation
+    Activity by Distinct Mechanisms
+  authors:
+  - David A. Mitchell
+  - Laura D. Hamel
+  - Krishna D. Reddy
+  - Lynn Farh
+  - Logan M. Rettew
+  - Phillip R. Sanchez
+  - Robert J. Deschenes
+  publisher: Journal of Biological Chemistry
+  date: '2014-06-01'
+  link: https://doi.org/f57t4k
+  orcid: 0000-0002-0475-8375
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/c3mb70515c
+  title: A putative role of the Sup35p C-terminal domain in the cytoskeleton organization
+    during yeast mitosis
+  authors:
+  - Insung Na
+  - Krishna D Reddy
+  - Leonid Breydo
+  - Bin Xue
+  - Vladimir N Uversky
+  publisher: Molecular BioSystems
+  date: '2014-01-08'
+  link: https://doi.org/gfwdck
+  orcid: 0000-0002-0475-8375
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.bbapap.2013.11.004
+  title: 'The crowd you''re in with: Effects of different types of crowding agents
+    on protein aggregation'
+  authors:
+  - Leonid Breydo
+  - Krishna D. Reddy
+  - Alessandro Piai
+  - Isabella C. Felli
+  - Roberta Pierattelli
+  - Vladimir N. Uversky
+  publisher: Biochimica et Biophysica Acta (BBA) - Proteins and Proteomics
+  date: '2014-02-01'
+  link: https://doi.org/f5qkv3
+  orcid: 0000-0002-0475-8375
+  plugin: orcid.py
+  file: orcid.yaml
+  file: sources.yaml
