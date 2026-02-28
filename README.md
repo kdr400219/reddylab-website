@@ -5,6 +5,6 @@
 
   # kdr400219's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[kdr400219.github.io/reddylab-website](https://kdr400219.github.io/reddylab-website)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
