@@ -1,10 +1,7 @@
 ---
-name: John Doe
+name: Irfan Sharif
 image: images/photo.jpg
-role: phd
-group: alum
+role: undergraduate
 links:
-  github: john-doe
+  email: irfansharif@usf.edu
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
