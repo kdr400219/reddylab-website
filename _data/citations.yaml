@@ -1,192 +1,129 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1038/s41594-025-01652-z
+  title: Evolutionary analysis reveals the origin of sodium coupling in glutamate
+    transporters
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: openRxiv
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
+  - Krishna D. Reddy
+  - Burha Rasool
+  - Farideh Badichi Akher
+  - "Nemanja Kutle\u0161i\u0107"
+  - Swati Pant
+  - Olga Boudker
+  publisher: Nature Structural &amp; Molecular Biology
+  date: '2025-08-25'
+  link: https://doi.org/hbq3hb
+  orcid: 0000-0002-0475-8375
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1021/jacs.3c01003
+  title: Environmentally Ultrasensitive Fluorine Probe to Resolve Protein Conformational
+    Ensembles by <sup>19</sup>F NMR and Cryo-EM
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Yun Huang
+  - Krishna D. Reddy
+  - Clay Bracken
+  - Biao Qiu
+  - Wenhu Zhan
+  - David Eliezer
+  - Olga Boudker
+  publisher: Journal of the American Chemical Society
+  date: '2023-04-06'
+  link: https://doi.org/gt7qrd
+  orcid: 0000-0002-0475-8375
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1085/jgp.202213131
+  title: The archaeal glutamate transporter homologue GltPh shows heterogeneous substrate
+    binding
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: openRxiv
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - Krishna D. Reddy
+  - Didar Ciftci
+  - Amanda J. Scopelliti
+  - Olga Boudker
+  publisher: Journal of General Physiology
+  date: '2022-04-22'
+  link: https://doi.org/g6kwjj
+  orcid: 0000-0002-0475-8375
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1080/07391102.2016.1217275
+  title: Physicochemical sequence characteristics that influence <i>S</i>-palmitoylation
+    propensity
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Krishna D. Reddy
+  - Jashwanth Malipeddi
+  - Shelly DeForte
+  - Vikas Pejaver
+  - Predrag Radivojac
+  - Vladimir N. Uversky
+  - Robert J. Deschenes
+  publisher: Journal of Biomolecular Structure and Dynamics
+  date: '2016-08-07'
+  link: https://doi.org/hbq3hc
+  orcid: 0000-0002-0475-8375
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1039/c6mb00122j
+  title: Functional correlations of respiratory syncytial virus proteins to intrinsic
+    disorder
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Jillian N Whelan
+  - Krishna D Reddy
+  - Vladimir N Uversky
+  - Michael N Teng
+  publisher: Molecular BioSystems
+  date: '2016-03-30'
+  link: https://doi.org/hbq3hd
+  orcid: 0000-0002-0475-8375
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1074/jbc.m114.567420
+  title: Mutations in the X-linked Intellectual Disability Gene, zDHHC9, Alter Autopalmitoylation
+    Activity by Distinct Mechanisms
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - David A. Mitchell
+  - Laura D. Hamel
+  - Krishna D. Reddy
+  - Lynn Farh
+  - Logan M. Rettew
+  - Phillip R. Sanchez
+  - Robert J. Deschenes
+  publisher: Journal of Biological Chemistry
+  date: '2014-06-01'
+  link: https://doi.org/f57t4k
+  orcid: 0000-0002-0475-8375
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1039/c3mb70515c
+  title: A putative role of the Sup35p C-terminal domain in the cytoskeleton organization
+    during yeast mitosis
   authors:
-  - Faisal S Alquaddoomi
-  - Joseph T Burke
-  - Lo Sosinski
-  - David A Mayer
-  - Evan P Brenner
-  - Samuel Z Chen
-  - Jacob D Krol
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: openRxiv
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Insung Na
+  - Krishna D Reddy
+  - Leonid Breydo
+  - Bin Xue
+  - Vladimir N Uversky
+  publisher: Molecular BioSystems
+  date: '2014-01-08'
+  link: https://doi.org/gfwdck
+  orcid: 0000-0002-0475-8375
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1016/j.bbapap.2013.11.004
+  title: 'The crowd you''re in with: Effects of different types of crowding agents
+    on protein aggregation'
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Leonid Breydo
+  - Krishna D. Reddy
+  - Alessandro Piai
+  - Isabella C. Felli
+  - Roberta Pierattelli
+  - Vladimir N. Uversky
+  publisher: Biochimica et Biophysica Acta (BBA) - Proteins and Proteomics
+  date: '2014-02-01'
+  link: https://doi.org/f5qkv3
+  orcid: 0000-0002-0475-8375
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -202,9 +139,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -221,21 +155,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
