@@ -1,11 +1,10 @@
 # site properties and page defaults
 title: Reddy Lab
-subtitle: 
+subtitle: Department of Molecular Medicine · University of South Florida
 description: Structure-function, evolution, and engineering of membrane transport
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
-
 # site social media and other links
 links:
   email: reddylab2025@gmail.com
