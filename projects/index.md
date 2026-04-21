@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our lab takes an interdisciplinary approach to understand membrane transport, spanning techniques in molecular biophysics, structural biology, structural bioinformatics, computational molecular evolution, protein engineering, and more.
 
 {% include tags.html tags="publication, resource, website" %}
 
