@@ -1,7 +1,7 @@
 ---
 ---
 
-# Structure-Function, Evolution, and Engineering of Membrane Transport
+# Structure-Function, Evolution, & Engineering of Membrane Transport
 
 {% include section.html %}
 
