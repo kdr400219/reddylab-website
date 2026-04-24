@@ -1,7 +1,7 @@
 ---
 name: Krishna Reddy, Ph.D.
 image: images/kdr2001.jpg
-role: pi
+role: principal-investigator
 affiliation: Assistant Professor
 aliases:
   - Krishna D. Reddy
