@@ -1,7 +1,7 @@
 ---
 name: Emilia Tugolukova, M.S.
-role: staff
-affiliation: Research Scientist
+role: programmer
+affiliation: Bioinformatics Specialist
 image: images/emilia.jpg
 links:
   email: emiliatugolukova@usf.edu
