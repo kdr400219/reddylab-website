@@ -5,7 +5,7 @@ nav:
   tooltip: Projects, datasets, and more
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
+# {% include icon.html icon="fa-solid fa-wrench" %}Research
 
 Our lab takes an interdisciplinary approach to understand membrane transport, spanning techniques in molecular biophysics, structural biology, structural bioinformatics, computational molecular evolution, protein engineering, and more.
 
