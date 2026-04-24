@@ -14,6 +14,8 @@ Science is a team endeavor. We strive to foster an inclusive, collaborative, and
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 {% include list.html data="members" component="portrait" filter="role != 'pi' and role != 'pet'" %}
 
+{% include section.html background="images/background.jpg" dark=true %}
+
 {% include section.html %}
 
 ## Lab Pets
@@ -22,9 +24,9 @@ Science is a team endeavor. We strive to foster an inclusive, collaborative, and
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-## Lab Alumni
-
 {% include section.html %}
+
+## Lab Alumni
 
 {% include list.html data="members" component="portrait" filter="role == 'alumni'" %}
 
