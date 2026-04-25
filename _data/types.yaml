@@ -182,6 +182,11 @@ preprint:
   text: Preprint
   tooltip: Preprint
 
+perspective:
+  icon: fa-regular fa-newspaper
+  text: Perspective
+  tooltip: Perspective
+
 unpublished:
   icon: fa-regular fa-eye
   text: Unpublished
