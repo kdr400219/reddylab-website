@@ -224,6 +224,11 @@ data:
   text: Data
   tooltip: Data
 
+pdb:
+  icon: fa-solid fa-database
+  text: PDB
+  tooltip: PDB
+
 package:
   icon: fa-solid fa-box
   text: Package
