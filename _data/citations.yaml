@@ -19,12 +19,16 @@
   buttons:
   - type: preprint
     link: https://www.biorxiv.org/content/10.1101/2023.12.03.569786v2.full
+  - type: perspective
+    link: https://www.nature.com/articles/s41594-025-01625-2
+  - type: pdb
+    link: https://www.rcsb.org/search?q=rcsb_pubmed_container_identifiers.pubmed_id:38106174
 - id: doi:10.1021/jacs.3c01003
   title: Environmentally Ultrasensitive Fluorine Probe to Resolve Protein Conformational
     Ensembles by <sup>19</sup>F NMR and Cryo-EM
   authors:
   - Yun Huang
-  - Krishna D. Reddy
+  - '**Krishna D. Reddy**'
   - Clay Bracken
   - Biao Qiu
   - Wenhu Zhan
@@ -56,11 +60,13 @@
   buttons:
   - type: preprint
     link: https://www.biorxiv.org/content/10.1101/2021.07.08.451670v2
+  - type: pdb
+    link: https://www.rcsb.org/search?q=rcsb_pubmed_container_identifiers.pubmed_id:35452090
 - id: doi:10.1080/07391102.2016.1217275
   title: Physicochemical sequence characteristics that influence <i>S</i>-palmitoylation
     propensity
   authors:
-  - Krishna D. Reddy^
+  - '**Krishna D. Reddy^**'
   - Jashwanth Malipeddi^
   - Shelly DeForte
   - Vikas Pejaver
@@ -78,7 +84,7 @@
     disorder
   authors:
   - Jillian N Whelan^
-  - Krishna D Reddy^
+  - '**Krishna D. Reddy^**'
   - Vladimir N Uversky
   - Michael N Teng
   publisher: Molecular BioSystems
@@ -93,7 +99,7 @@
   authors:
   - David A. Mitchell
   - Laura D. Hamel
-  - Krishna D. Reddy
+  - '**Krishna D. Reddy**'
   - Lynn Farh
   - Logan M. Rettew
   - Phillip R. Sanchez
@@ -109,7 +115,7 @@
     during yeast mitosis
   authors:
   - Insung Na
-  - Krishna D Reddy
+  - '**Krishna D. Reddy**'
   - Leonid Breydo
   - Bin Xue
   - Vladimir N Uversky
@@ -124,7 +130,7 @@
     on protein aggregation'
   authors:
   - Leonid Breydo
-  - Krishna D. Reddy
+  - '**Krishna D. Reddy**'
   - Alessandro Piai
   - Isabella C. Felli
   - Roberta Pierattelli
