@@ -126,8 +126,7 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.bbapap.2013.11.004
-  title: 'The crowd you''re in with: Effects of different types of crowding agents
-    on protein aggregation'
+  title: "The crowd you're in with: Effects of different types of crowding agents on protein aggregation"
   authors:
   - Leonid Breydo
   - '**Krishna D. Reddy**'
